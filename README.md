@@ -59,6 +59,7 @@ Through these notebooks, the project compares numerical accuracy, stability cons
 02_Exercise1B.ipynb   Half space Gaussian shear heating diffusion
 03_Exercise2A.ipynb   1D acoustic wave source–receiver exercise
 04_Exercise2B.ipynb   2D SH wave source–receiver exercise
+```
 
 ## Dependencies
 
