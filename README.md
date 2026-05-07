@@ -6,9 +6,9 @@ This repository contains the code and numerical experiments developed as part of
 
 The project investigates numerical solutions for heat diffusion and wave propagation problems. The main objective is to compare several computational approaches, including finite difference methods, finite element methods, implicit and explicit time integration schemes, Crank–Nicolson schemes, and pseudospectral methods.
 
-The work is organized into four Jupyter Notebook exercises:
-
 ## Contents
+
+The work is organized into four Jupyter Notebook exercises:
 
 ### 1. Exercise 1A — Transient Heat Diffusion Toward a Curved Geothermal Profile
 
