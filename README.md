@@ -63,7 +63,7 @@ Through these notebooks, the project compares numerical accuracy, stability cons
 
 ## Dependencies
 
-This project uses Python and several standard scientific computing packages. The required packages are listed in `requirements.txt`.
+This project uses Python and several standard scientific computing packages.
 
 Main dependencies:
 
